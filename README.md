@@ -1,3 +1,7 @@
+## repositories
+
+- [all my repos](https://github.com/yujiepan-work?tab=repositories)
+- [bookmark](https://github.com/yujiepan-work/bookmarks)
 
 ## transformers
 
